@@ -1,5 +1,5 @@
 # vidsrc-resolver
-Extract stream URLs from Vidsrc
+Extract stream URLs from Vidsrc ( .net / .xyz / .pm / .in )
 
 ## Usage
 
