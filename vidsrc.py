@@ -278,8 +278,3 @@ class VidSRC_Resolver:
             return shutil.which("mpv") is not None
         else:
             return False
-        
-resolver = VidSRC_Resolver(media_type="movie", tmdb_id="140607", verbosity=True)
-stream = resolver.get_stream()
-print(stream)
-resolver.play_stream()
