@@ -1,13 +1,13 @@
 # vidsrc-resolver
 Extract stream URLs from Vidsrc ( .net / .xyz / .pm / .in )
 
-## Usage
-
-### Install Requirements
+## Install Requirements
 
 ```sh
 pip install -r requirements.txt
 ```
+
+## Usage
 
 TV
 Playing episode 1 season 1 of [SUITS](https://www.themoviedb.org/tv/37680-suits)
